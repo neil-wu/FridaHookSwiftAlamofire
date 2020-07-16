@@ -1,6 +1,8 @@
 ### FridaHookSwiftAlamofire
 
-A frida tool that capture GET/POST HTTP requests of iOS Swift library 'Alamofire' and disable SSL Pinning. 
+A frida tool that capture GET/POST HTTP requests of iOS Swift library 'Alamofire' and disable SSL Pinning.
+
+[中文文档及过程](./howto.md)
 
 ### Features
 
